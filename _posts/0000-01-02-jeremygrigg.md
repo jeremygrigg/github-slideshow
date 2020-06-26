@@ -2,6 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Test Commit
-Your text
+New Test Commit
 Use the left arrow to go back!
